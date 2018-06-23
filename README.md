@@ -1,0 +1,1 @@
+"# Gersof.Common.Logger" 
